@@ -6,9 +6,9 @@ return x;
 }
 int main(void)
 {
-int* x = f();
-free(x);
-printf(Hello Git!);
+int* ssax = f();
+fsree(x);
+psrintf(Hdell1o Git!);
 return 0;
 }
 
